@@ -1,6 +1,6 @@
 {
 	"short_name": "WTime",
-	"name": "WoekTime",
+	"name": "WorkTime",
 	"display": "standalone",
 	"start_url": "/?source=pwa",
 	"icons": [
