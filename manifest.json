@@ -1,5 +1,5 @@
 {
-	"short_name": "WCklock",
+	"short_name": "WTime",
 	"name": "WoekTime",
 	"display": "standalone",
 	"start_url": "/?source=pwa",
