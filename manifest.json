@@ -2,7 +2,7 @@
 	"short_name": "WTime",
 	"name": "WorkTime",
 	"display": "standalone",
-	"start_url": "/?source=pwa",
+	"start_url": "index.html",
 	"icons": [
 		{
 			"src": "images/icon192.png",
