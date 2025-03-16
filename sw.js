@@ -1,6 +1,6 @@
 var CACHE_NAME = 'WTime';
 var urlsToCache = [
-	'/wpa/',
+	'/WTime/',
 ];
 
 // インストール処理
